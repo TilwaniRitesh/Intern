@@ -22,7 +22,7 @@
 }
 .icon h1
 {
-    color: rgb(7,104,207);
+    color: rgb(7,104,305);
 }
 
 .signup button {
@@ -86,7 +86,7 @@
 
 .help_container
 {
-    background:linear-gradient(#13339E,#4182F4);
+    background-color:rgba(7,104,207);
 }
 .help_container h1
 {
