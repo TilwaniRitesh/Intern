@@ -1,4 +1,4 @@
-.nav_container {
+.nav_contain {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -44,7 +44,7 @@
     height: 600px;
     display: flex;
 }
-.post1
+.postmaster
 {
     width: 50%;
 
